@@ -378,6 +378,10 @@
     /* border-top-left-radius: 16px; */
     /* border-bottom-left-radius: 16px; */
   }
+
+  .sidebar {
+    display: flex;
+  }
   
   .channel-list__sidebar__icon1 {
     width: 44px;
